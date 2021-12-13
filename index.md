@@ -40,18 +40,18 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam | <!-- [[link](https://moodle.ep
 | 18/10     | -           |                             | Indexing and Distributed retrieval [[slides][4p], [lab][4l]]  |
 | 25/10     | -           |                             | Word Embeddings [[slides][5p], [lab][5l]] |
 | 01/11     | **Midterm** |                             | Link-based Ranking [[slides][6p], [lab][6l]] |
-| 08/11     | -           | Data Mining                 | Graph Mining <!-- [[slides][6p], [lab][6l]]   -->               |
-| 15/11     | **Quiz 1**  |                             | Document Classification<!--  [[slides][7p], [lab][7l]]    --> |
-| 22/11     | -           |                             | Recommender Systems <!-- [[slides][8p], [lab][8l]]  -->                          |
-| 29/11     | -           |                             | Association Rules <!-- [[slides][9p], [lab][9l]]   -->            |
-| 06/12     | -           | From Documents to Knowledge | Semantic Web <!-- [[slides][10p], [lab][10l]]  -->                |
-| 13/12     | **Quiz 2**  |                             | Entity and Information Extraction <!-- [[slides][11p], [lab][11l]]   --> |
+| 08/11     | -           | Data Mining                 | Graph Mining [[slides][7p], [lab][7l]] |
+| 15/11     | -           |                             | Document Classification [[slides][8p], [lab][8l]]    |
+| 22/11     | -           |                             | Recommender Systems [[slides][9p], [lab][9l]]                           |
+| 29/11     | -           |                             | Association Rules [[slides][10p], [lab][10l]]              |
+| 06/12     | -           | From Documents to Knowledge | Semantic Web [[slides][11p], [lab][11l]]                 |
+| 13/12     | **Quiz**  |                             | Entity and Information Extraction [[slides][12p], [lab][12l]]   |
 | 20/12     | -           |                             | Inference for Knowledge Graphs <!-- [[slides][12p], [lab][12l]]     -->  |
 
 
 ## Continuous Evaluation
 
-We will offer one programming midterm and two quizzes, which will be similar to questions you will find in the final exam. These intermediate exams **will not be graded**.
+We will offer one programming midterm and one quiz, which will be similar to questions you will find in the final exam. These intermediate exams **will not be graded**.
 
 Only the final exam will be graded. It will consist of multiple-choice questions, one theoretical question, and one programming task. Throughout the semester you will have examples of such questions and tasks in the weekly exercises. We also provide mock exams and quizzes from previous years: [2019 Midterm Exam](https://github.com/LSIR/DIS/blob/master/Extras/2019-Midterm), [2018 Quizzes](https://github.com/LSIR/DIS/blob/master/Extras/2018-Quizzes), [2018 Final Exam](https://github.com/LSIR/DIS/blob/master/Extras/2018-Final).
 
